@@ -1,4 +1,4 @@
-# CodeAlpha_BASIC_NETWORK_SNIFFER
+# BASIC_NETWORK_SNIFFER
 
 
 First, install scapy. It's a powerful Python library used for network packet manipulation and sniffing. You can install it using pip:
